@@ -1,0 +1,9 @@
+{
+  "id": "multi-terminal",
+  "name": "Multi Terminal",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Embedded terminal with vertical tabs for multiple sessions",
+  "author": "mp",
+  "isDesktopOnly": true
+}
